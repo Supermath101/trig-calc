@@ -49,5 +49,6 @@ fn main() {
             panic!("Invalid answer for first prompt.");
         }
     };
+    println!("{:?}", triangle); // For testing purposes.
     todo!();
 }
